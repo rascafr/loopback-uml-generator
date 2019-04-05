@@ -14,7 +14,7 @@ npm i -g loopback-uml-generator
 
 The module will be installed globally.
 
-You also need to download the (PlantUML jar executable) on your machine. 
+You also need to download the [PlantUML jar executable](http://sourceforge.net/projects/plantuml/files/plantuml.jar/download) on your machine. 
 
 Then, just set the environment variables `PLANTUML_JAR` as the path of the executable.
 
