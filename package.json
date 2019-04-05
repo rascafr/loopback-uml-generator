@@ -1,0 +1,35 @@
+{
+  "name": "loopback-uml-generator",
+  "version": "1.0.0",
+  "description": "UML generator that uses Loopback (IBM) ORM configuration files as references",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lbUML": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rascafr/loopback-uml-generator.git"
+  },
+  "keywords": [
+    "UML",
+    "Loopback",
+    "IBM",
+    "Plantuml"
+  ],
+  "author": "François Leparoux <francois.leparoux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rascafr/loopback-uml-generator/issues"
+  },
+  "homepage": "https://github.com/rascafr/loopback-uml-generator#readme",
+  "dependencies": {
+    "cli-color": "^1.4.0"
+  }
+}
