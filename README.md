@@ -1,6 +1,6 @@
 # Loopback UML Generator
 
-I the current company I'm working where we use Loopback for most of the projects, I realise that there was a gap between production code and architecture documents.
+I work in a company where we use Loopback for most of our Javascript projects. I realise that there was a gap between production code and architecture documents.
 
 Because keeping diagrams up-to-date can be a time consuming task, I started working on a Node.js module that will generate the UML class diagram using the famous [PlantUML](http://plantuml.com/class-diagram) Java library.
 
